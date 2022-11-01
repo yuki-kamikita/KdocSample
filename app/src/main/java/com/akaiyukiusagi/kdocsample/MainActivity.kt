@@ -12,6 +12,20 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.akaiyukiusagi.kdocsample.ui.theme.KdocSampleTheme
 
+/**
+ * めいんあくてぃびぃてぃ〜
+ *
+ * 公式ドキュメント：https://github.com/Kotlin/dokka
+ *
+ * ```
+ * ./gradlew dokkaHtml # htmlで出力
+ * ./gradlew dokkaGfm # Markdownで出力
+ * ```
+ *
+ * app/build/dokka に入っている
+ *
+ * @author ワイ
+ */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
