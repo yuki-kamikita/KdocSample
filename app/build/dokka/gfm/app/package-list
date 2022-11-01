@@ -1,0 +1,18 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.akaiyukiusagi.kdocsample.ui.theme////PointingToDeclaration/app/com.akaiyukiusagi.kdocsample.ui.theme/index.md
+$dokka.location:com.akaiyukiusagi.kdocsample.ui.theme//KdocSampleTheme/#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample.ui.theme/-kdoc-sample-theme.md
+$dokka.location:com.akaiyukiusagi.kdocsample.ui.theme//Purple200/#/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample.ui.theme/-purple200.md
+$dokka.location:com.akaiyukiusagi.kdocsample.ui.theme//Purple500/#/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample.ui.theme/-purple500.md
+$dokka.location:com.akaiyukiusagi.kdocsample.ui.theme//Purple700/#/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample.ui.theme/-purple700.md
+$dokka.location:com.akaiyukiusagi.kdocsample.ui.theme//Shapes/#/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample.ui.theme/-shapes.md
+$dokka.location:com.akaiyukiusagi.kdocsample.ui.theme//Teal200/#/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample.ui.theme/-teal200.md
+$dokka.location:com.akaiyukiusagi.kdocsample.ui.theme//Typography/#/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample.ui.theme/-typography.md
+$dokka.location:com.akaiyukiusagi.kdocsample////PointingToDeclaration/app/com.akaiyukiusagi.kdocsample/index.md
+$dokka.location:com.akaiyukiusagi.kdocsample//DefaultPreview/#/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample/-default-preview.md
+$dokka.location:com.akaiyukiusagi.kdocsample//Greeting/#kotlin.String/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample/-greeting.md
+$dokka.location:com.akaiyukiusagi.kdocsample/MainActivity///PointingToDeclaration/app/com.akaiyukiusagi.kdocsample/-main-activity/index.md
+$dokka.location:com.akaiyukiusagi.kdocsample/MainActivity/MainActivity/#/PointingToDeclaration/app/com.akaiyukiusagi.kdocsample/-main-activity/-main-activity.md
+com.akaiyukiusagi.kdocsample
+com.akaiyukiusagi.kdocsample.ui.theme
+
